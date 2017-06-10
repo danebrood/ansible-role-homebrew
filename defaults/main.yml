@@ -6,8 +6,34 @@ homebrew_install_path: "{{ homebrew_prefix }}/Homebrew"
 homebrew_brew_bin_path: /usr/local/bin
 
 homebrew_installed_packages:
-  - ssh-copy-id
+  - ansible
+  - autoconf
+  - automake
+  - composer
+  - coreutils
+  - docker
+  - elasticsearch
+  - emacs-plus
+  - ffmpeg
+  - gcc
+  - git
+  - grep
+  - jmeter
+  - nmap
+  - openssh
+  - openssl
+  - php71
   - pv
+  - python3
+  - redis
+  - ruby
+  - ssh-copy-id
+  - vim
+  - wget
+  - z
+  - zlib
+  - zsh
+  - zsh-completions
 
 homebrew_uninstalled_packages: []
 
