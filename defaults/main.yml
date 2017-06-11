@@ -42,6 +42,7 @@ homebrew_upgrade_all_packages: no
 homebrew_taps:
   - homebrew/core
   - caskroom/cask
+  - homebrew/php
 
 homebrew_cask_apps:
   - firefox
