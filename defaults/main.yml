@@ -46,6 +46,7 @@ homebrew_taps:
 
 homebrew_cask_apps:
   - firefox
+  - java
 
 homebrew_cask_appdir: /Applications
 
