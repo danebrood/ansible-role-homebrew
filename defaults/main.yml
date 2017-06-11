@@ -13,7 +13,6 @@ homebrew_installed_packages:
   - coreutils
   - docker
   - elasticsearch
-  - emacs-plus
   - ffmpeg
   - gcc
   - git
