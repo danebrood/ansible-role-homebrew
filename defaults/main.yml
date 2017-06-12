@@ -44,8 +44,16 @@ homebrew_taps:
   - homebrew/php
 
 homebrew_cask_apps:
+  - docker
+  - dropbox
   - firefox
   - java
+  - sequel-pro
+  - skitch
+  - slack
+  - transmit
+  - vagrant
+  - virtualbox
 
 homebrew_cask_appdir: /Applications
 
